@@ -1,1 +1,0 @@
-# Nivrutti_basic.c
