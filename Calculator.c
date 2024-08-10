@@ -1,4 +1,4 @@
-#include<stdio.h> //heder file
+#include<stdio.h> //header file
 int main() //main function
  float a = 12; // value of a
  float b = 15; // value of b
