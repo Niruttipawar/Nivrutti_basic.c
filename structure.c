@@ -1,7 +1,7 @@
 #include<stdio.h> // header file
-int main() {    // main function,brase
+int main() {    // main function
 
-// type here commands,code
+// type here code
 
 
 return 0; // ending of code
