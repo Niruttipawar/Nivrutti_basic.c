@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+
+int age;
+if (18>age) {
+    printf("you are give vote:");
+}
+else (18<age) {
+    printf("you don't give the vote:");
+}
+if else (age < 90)
+{
+    printf("invalid age :");
+{
+
+return 0;
+}
