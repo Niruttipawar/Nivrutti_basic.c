@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+
+  int arr [0] =  {12,2,1};
+printf("the value of arr :/n%d",arr[1]);
+printf("the value of arr :/n%d",arr[0]);
+printf("the value of arr :/n%d",arr[2]);
+
+return 0;
+}
